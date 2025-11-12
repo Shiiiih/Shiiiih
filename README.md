@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi 👋
+- 👋 I’m ShihTing .
+- 🌱 I’m studying in the Department of Statistics at Fu Jen Catholic University.
+- 📫 How to reach me: qiuuuu0511@gmail.com
 <!--
 **Shiiiih/Shiiiih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
